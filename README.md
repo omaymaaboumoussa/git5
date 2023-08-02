@@ -1,3 +1,2 @@
 # git5
-REMOTE 
 LOCAL
